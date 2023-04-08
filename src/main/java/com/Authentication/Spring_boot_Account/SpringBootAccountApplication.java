@@ -1,0 +1,13 @@
+package com.Authentication.Spring_boot_Account;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringBootAccountApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringBootAccountApplication.class, args);
+	}
+
+}
